@@ -17,10 +17,10 @@ The aim of the project is to increase knowledge about creating websites.
 
 ## Technologies
 * HTML
-* CSS - Flex Box Layout
+* CSS
 
 ## Status
-Project is: _in progress_.
+Project is: _finished_.
 
 ## Inspiration
 Based on the project placed in the [@facebook](https://www.facebook.com/groups/940002776068923/) group.
